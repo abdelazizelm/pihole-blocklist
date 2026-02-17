@@ -4,6 +4,7 @@
 0.0.0.0 dhikisquad.azurewebsites.net
 0.0.0.0 es.erome.com
 0.0.0.0 fra.xhspot.com
+0.0.0.0 id.spankbang.com
 0.0.0.0 nhs.uk
 0.0.0.0 rccgthekingspalace.org
 0.0.0.0 stake.com
