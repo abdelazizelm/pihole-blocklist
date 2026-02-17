@@ -2,6 +2,7 @@
 0.0.0.0 d-geoservices.eu
 0.0.0.0 deezer.com
 0.0.0.0 dhikisquad.azurewebsites.net
+0.0.0.0 es.erome.com
 0.0.0.0 fra.xhspot.com
 0.0.0.0 nhs.uk
 0.0.0.0 rccgthekingspalace.org
