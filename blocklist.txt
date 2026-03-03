@@ -1,31 +1,38 @@
-0.0.0.0 baddiehub.com
-0.0.0.0 campusdining.auburn.edu
-0.0.0.0 d-geoservices.eu
-0.0.0.0 deezer.com
-0.0.0.0 dhikisquad.azurewebsites.net
-0.0.0.0 es.erome.com
-0.0.0.0 fr.xgroovy.com
-0.0.0.0 fra.xhamster.com
-0.0.0.0 fra.xhamster.desi
-0.0.0.0 fra.xhspot.com
-0.0.0.0 google.com
-0.0.0.0 id.spankbang.com
-0.0.0.0 link.me
-0.0.0.0 nhs.uk
-0.0.0.0 pimpbunny.com
-0.0.0.0 rccgthekingspalace.org
-0.0.0.0 saveporn.online
-0.0.0.0 stake.com
-0.0.0.0 tarfehalshaml.net
-0.0.0.0 temu.com
-0.0.0.0 trans.fleshbot.com
-0.0.0.0 tukif.porn
-0.0.0.0 tumblr.com
-0.0.0.0 txnhh.com
-0.0.0.0 w10.leakporner.com
-0.0.0.0 xhaccess.com
-0.0.0.0 xnxx.tv
-0.0.0.0 xnxx2.com
-0.0.0.0 xvv1deos.com
-0.0.0.0 xxbrits.com
-0.0.0.0 yourtango.com
+# Title: Add2PiHole Blocklist
+# Updated: 2026-03-03
+# Homepage: https://github.com/abdelazizelm/pihole-blocklist
+# Format: domain-only (one domain per line)
+# Managed by the Add2PiHole Chrome extension
+#
+baddiehub.com
+campusdining.auburn.edu
+d-geoservices.eu
+deezer.com
+dhikisquad.azurewebsites.net
+es.erome.com
+fr.xgroovy.com
+fra.xhamster.com
+fra.xhamster.desi
+fra.xhspot.com
+google.com
+id.spankbang.com
+link.me
+nhs.uk
+pimpbunny.com
+porzo.com
+rccgthekingspalace.org
+saveporn.online
+stake.com
+tarfehalshaml.net
+temu.com
+trans.fleshbot.com
+tukif.porn
+tumblr.com
+txnhh.com
+w10.leakporner.com
+xhaccess.com
+xnxx.tv
+xnxx2.com
+xvv1deos.com
+xxbrits.com
+yourtango.com
