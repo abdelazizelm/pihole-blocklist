@@ -1,5 +1,5 @@
 # Title: Add2PiHole Blocklist
-# Updated: 2026-03-03
+# Updated: 2026-09-11
 # Homepage: https://github.com/abdelazizelm/pihole-blocklist
 # Format: domain-only (one domain per line)
 # Managed by the Add2PiHole Chrome extension
@@ -15,7 +15,6 @@ fr.xgroovy.com
 fra.xhamster.com
 fra.xhamster.desi
 fra.xhspot.com
-google.com
 gratuit.xxx
 id.spankbang.com
 link.me
